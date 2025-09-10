@@ -1,7 +1,7 @@
 # **# Lecture 1: Introduction to Algorithms**
 
-# *-Variables and Data Types*
+# -Variables and Data Types
 
-# *-Conditional Statements*
+# -Conditional Statements
 
-# *-Loops (for, while)*
+# -Loops (for, while)
